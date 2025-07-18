@@ -15,5 +15,8 @@
     "url": "https://github.com/Nikita-Erema/ajs.noteJs/issues"
   },
   "homepage": "https://github.com/Nikita-Erema/ajs.noteJs#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "@nikita-erema/ajs": "^1.0.0"
+  }
 }
